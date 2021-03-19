@@ -7,4 +7,4 @@ ISPConfig 3.X.X
 Supported Distros:
 All Debianbased -> Use of apt
 
-Can be modified to work with other Package Managers like "yum" just change it (Please check the Syntax afterwards!
+Can be modified to work with other Package Managers like "yum" just change it (Please check the Syntax afterwards!)
